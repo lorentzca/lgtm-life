@@ -1,3 +1,4 @@
 ## Usage
 
-	![](https://github.com/Lorentzca/deus-ex-machina/blob/master/<picture-name>)
+    ![](https://raw.githubusercontent.com/Lorentzca/lgtm-life/master/<Picture-name>)
+
